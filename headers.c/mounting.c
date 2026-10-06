@@ -10,7 +10,7 @@
 
 // in operating system - like windows = every partition gets its own isolated letter name..
 // 
-// in linux when i boot into - mounting in the process of "grafting" the physical storage device onto a specific folder
+// in linux when i boot into - mounting in the process of "grafting" the physical storage device onto a specific folder.
 // branch of dir tree.
 //
 // /mnt is a folder sitting in my ram wut? -- mount() sys call is there;
